@@ -37,9 +37,8 @@ class Team {
   }
 }
 
-/* const team = new Team();
-team.add(new Pers('niki'));
-team.add(new Pers('moko'));
-console.log(team); */
+/* const shur = new Pers('Сюрикенщик', 'Shurikener', 40, 4, 20, 15);
+const newTeam = new Team('newTeam');
+console.log(newTeam.team); */
 
 export default Team;
